@@ -1,0 +1,12 @@
+public class Branch extends Branchplan{
+public static void main(String []args){
+Branch branch = new Branch();
+branch.check_accounts(1000);
+branch.pay_tax(2000);
+branch.do_interview();
+branch.receive_customers();
+}
+public void receive_customers()
+{
+}
+}
