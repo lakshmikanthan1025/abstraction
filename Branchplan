@@ -1,0 +1,9 @@
+public abstract class Branchplan extends Headoffice{
+public static void main(String []args){
+System.out.println("plan");
+}
+public void do_interview()
+{
+System.out.println("java interview");
+}
+}
